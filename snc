@@ -8,7 +8,7 @@ servers:
 paths:
   /about:
     get:
-      summary: "Welcome to the API"
+      summary: "Welcome to the API dude"
       operationId: "getAbout"
       description: |
         # Welcome
